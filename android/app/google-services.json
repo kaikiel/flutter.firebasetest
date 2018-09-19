@@ -1,0 +1,144 @@
+{
+  "project_info": {
+    "project_number": "442772824257",
+    "firebase_url": "https://riverside-bicycle.firebaseio.com",
+    "project_id": "riverside-bicycle",
+    "storage_bucket": "riverside-bicycle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442772824257:android:0a88feadbd7d5d96",
+        "android_client_info": {
+          "package_name": "com.example.kiel.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442772824257-t2ti94rftva4jusqikns1og88ehfer59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kiel.myapplication",
+            "certificate_hash": "d48358b6f1648a9acb4a88e00c6a8b26165d085e"
+          }
+        },
+        {
+          "client_id": "442772824257-u40s61r37nqhvidqm4esvdjcpc22a5e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTHPoCztcynKPw04BjSjl71fbF_iNyPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442772824257-u40s61r37nqhvidqm4esvdjcpc22a5e6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442772824257-78nl6u7uh4qkh106dhvqct8bjt3a27ab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.firebasetest"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442772824257:android:15fa8e74d7c85d74",
+        "android_client_info": {
+          "package_name": "com.flutter.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442772824257-vnomb5e5t51seurgrirlhcqvfg4mqnu9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.firebasetest",
+            "certificate_hash": "d48358b6f1648a9acb4a88e00c6a8b26165d085e"
+          }
+        },
+        {
+          "client_id": "442772824257-u40s61r37nqhvidqm4esvdjcpc22a5e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTHPoCztcynKPw04BjSjl71fbF_iNyPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442772824257-u40s61r37nqhvidqm4esvdjcpc22a5e6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442772824257-78nl6u7uh4qkh106dhvqct8bjt3a27ab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.firebasetest"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442772824257:android:9450fb58e79b05a8",
+        "android_client_info": {
+          "package_name": "org.nativescript.FirebaseTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442772824257-u40s61r37nqhvidqm4esvdjcpc22a5e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTHPoCztcynKPw04BjSjl71fbF_iNyPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
